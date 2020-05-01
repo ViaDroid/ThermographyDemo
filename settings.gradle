@@ -1,0 +1,2 @@
+rootProject.name = 'ThermographyDemo'
+include ':app', 'HeatMapLib'

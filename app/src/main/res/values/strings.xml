@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Thermal Camera</string>
+
+    <string name="title_label">Tiny Ambient Thermal Camera</string>
+
+    <string name="bluetooth_settings">Bluetooth settings</string>
+    <string name="show_devices">Show devices</string>
+
+    <string name="normal_heated">Normal</string>
+    <string name="over_heated">Warning! Overheated!</string>
+</resources>
