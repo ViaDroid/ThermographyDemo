@@ -1,6 +1,7 @@
 ## ThermographyDemo
 Android Thermography Demo 蓝牙串口 热成像 热力图
 
+[阵列插值参考资料](ref.md)
 ### 动态演示
 ---
 <img src="arts/screen_record.gif" width="280" height="475" />
